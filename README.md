@@ -7,9 +7,9 @@
 [巨量資料中的小世界–漫談社群網路](https://ee.ntu.edu.tw/upload/hischool/doc/2014.05.pdf "巨量資料中的小世界–– 漫談社群網路 - 台大電機系")
 
 下列幾項指標可量化描述一個網路
-* Degree
-* Path length
-* Clustering coefficient
+* [Degree](#degree)
+* [Path length](path-length)
+* [Clustering coefficient](#clustering-coefficient)
 
 
 
@@ -61,10 +61,10 @@
 * edge：角色人物在同一段文章內出現，則存在關係，建立edge。
 
 列出下列幾項結果
-* Average degree
-* Diameter
-* Average clustering coefficient
-* Visualization
+* [Average degree](#average-degree)
+* [Diameter](#diameter)
+* [Average clustering coefficient](#average-clustering-coefficient)
+* [Visualization](#visualization)
 
 ### Average degree
 node與edge關係的定義如上，經由整理後可列出各點間之連結關係。
