@@ -119,9 +119,7 @@ node與edge關係的定義如上，經由整理後可列出各點間之連結關
 ### Visualization
 依笑傲江湖腳色列表的標記做區分
 
-|顏色|<span style="color:lightpink;">██</span>|<span style="color:lightsteelblue;">██</span>|<span style="color:mediumturquoise;">██</span>|<span style="color:moccasin;">██</span>|<span style="color:plum;">██</span>|<span style="color:violet;">██</span>|<span style="color:sienna;">██</span>|<span style="color:lightslategray;">██</span>|<span style="color:orange;">██</span>|<span style="color:goldenrod;">██</span>|<span style="color:palegreen;">██</span>|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|文字|主角群|福威鏢局|青城派|衡山派|華山派|恆山派|泰山派|嵩山派|少林|日月神教|其他|
+![image](snapshot/group.jpg "各派顏色標記")
 
 [Demo: visualization by vis.js](netpage/index.html "by visjs.org")
 
