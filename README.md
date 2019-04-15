@@ -1,4 +1,8 @@
 # 社群網路-實作小說人物關係網路
+共兩部分，先是紀錄社群網路的基礎概念，接著對小說人物群作一項社群網路分析實作。
+* [量化社群網路](#量化社群網路)
+* [實作小說人物關係網路](#實作小說人物關係網路)
+
 ## 量化社群網路
 
 社群網路(Social network)模型，是由許多節點(node)以及邊(edge)構成的圖型結構(graph)，於各領域有不同面向的探討。套用在交際分析上，以node代表人，edge代表關係。
@@ -8,7 +12,7 @@
 
 下列幾項指標可量化描述一個網路
 * [Degree](#degree)
-* [Path length](path-length)
+* [Path length](#path-length)
 * [Clustering coefficient](#clustering-coefficient)
 
 
