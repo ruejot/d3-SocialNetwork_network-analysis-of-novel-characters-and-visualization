@@ -125,7 +125,7 @@ node與edge關係的定義如上，經由整理後可列出各點間之連結關
 
 ![image](snapshot/group.jpg "各派顏色標記")
 
-[Demo: visualization by vis.js](netpage/index.html "by visjs.org")
+[Demo: visualization by vis.js](visualization "by visjs.org")
 
 ![image](snapshot/visualization.jpg "visualization")
 
